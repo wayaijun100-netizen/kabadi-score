@@ -1,0 +1,6 @@
+{
+  "name": "Kabaddi Scoreboard",
+  "description": "A high-visibility TV scoreboard application for Kabaddi matches featuring 30-second raid timer, customizable team variables, keyboard shortcuts, and free-transform UI layout editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
